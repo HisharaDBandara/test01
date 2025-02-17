@@ -13,9 +13,6 @@ namespace outpu
             Console.WriteLine("Your age is: "+age);
 
             Console.ReadLine();
-            Console.WriteLine("Your age is: " + age);
-
-            Console.ReadLine();
 
 
 
