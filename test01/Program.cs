@@ -18,6 +18,8 @@ namespace outpu
 
             Console.ReadLine();
 
+            //c code
+
 
 
         }
