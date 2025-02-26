@@ -14,11 +14,11 @@ namespace outpu
 
             Console.ReadLine();
 
-            Console.WriteLine("Your age is: "+age);
+            Console.WriteLine("Your age is : "+age);
 
             Console.ReadLine();
 
-            //c code
+            //c code please make some changers
 
 
 
