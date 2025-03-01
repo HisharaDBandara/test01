@@ -18,7 +18,7 @@ namespace outpu
 
             Console.ReadLine();
 
-            //c code please make some changers
+        
 
 
 
